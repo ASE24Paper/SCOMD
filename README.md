@@ -18,3 +18,10 @@ This part is saved in the directory "Dataset", including:
 
 
 ## Evaluation data
+
+- Experimental evaluation 1 for 70 real-world configuration problems that are newly selected. 
+    - From TEST1.yaml to TEST70.yaml. The specific links are provided in the file "realworld problem information.xlsx".
+
+- Experimental evaluation 2 for 35 injected misconfigurations from 20 correct configuration files that are newly selected.
+    - The directory "correct file" includes 20 correct configuration files.
+    - From EvaluationFile1.yaml to EvaluationFile20.yaml. The specific links and corresponding injected strategies are provided in the file "injected misconfiguration information.xlsx"
