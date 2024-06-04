@@ -1,1 +1,1 @@
-# SCOMD
+# SCOMD: Misconfiguration Detection for AWS Serverless Computing
