@@ -23,15 +23,15 @@ The required libaries in our tool are recoreded in the file "requirement.txt".
 
 #### Data collection, data convertion, and knowledge generation
 
-    - The learned knowledge is saved in the directory "knowledge".
-    - The code file "AWSupdate_data.ipynb" can learn the knowledge about configuration resource types, configuration entries, and configuration entry values.
-    - The code file "AWSRuleMining.ipynb" can learn the knowledge about coarse-grained and fine-grained configuration denpendencies.
-    - The code file "GeneralMethod.py" contains some general method implementation.
+- The learned knowledge is saved in the directory "knowledge".
+- The code file "AWSupdate_data.ipynb" can learn the knowledge about configuration resource types, configuration entries, and configuration entry values.
+- The code file "AWSRuleMining.ipynb" can learn the knowledge about coarse-grained and fine-grained configuration denpendencies.
+- The code file "GeneralMethod.py" contains some general method implementation.
 
 #### Misconfiguration Detection
 
-    - The code file "approachAWS.ipynb" conducts misconfiguration detection for a tested configuration file of the serverless application.
-    - The knowledge data can be read only once, and then the tests are constantly carried out on the configuration file to be tested.
+- The code file "approachAWS.ipynb" conducts misconfiguration detection for a tested configuration file of the serverless application.
+- The knowledge data can be read only once, and then the tests are constantly carried out on the configuration file to be tested.
 
 
 
