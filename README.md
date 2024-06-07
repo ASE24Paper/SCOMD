@@ -11,8 +11,8 @@ The used dataset is saved in the directory "Dataset".
     - The detailed information of these real-world configuration files are described in the file "real dataset info.xlsx".
     - They are used to conduct a study in Section 3 and learn the patterns of our tool SCOME.
 
-- The directory "configuration files-office" contains **10 configuration file examples** from official documentation.
-    - The detailed information of these examples are described in the file "official dataset info.xlsx".
+- The directory "configuration files-office" contains sample configuration files provided in the official documentation.
+    - The detailed information of these examples are partially described in the file "official dataset info.xlsx".
     - They are used to learn the patterns of our tool SCOME.
 
 
